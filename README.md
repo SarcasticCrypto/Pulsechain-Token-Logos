@@ -17,7 +17,7 @@ This repository serves as a centralized resource for Pulsechain token logos, agg
 
 Token logos are named using the token's contract address:
 ```
-0x[CONTRACT_ADDRESS].png
+0x1234567890abcdef1234567890abcdef12345678.png
 ```
 
 Simply reference the token by its contract address to retrieve the corresponding logo.
@@ -33,7 +33,7 @@ Simply reference the token by its contract address to retrieve the corresponding
 2. **Prepare Your Logo**
    - Make sure your logo is a PNG file
    - Recommended size: 256x256 pixels or larger
-   - Name it exactly as your contract address: `0xYourContractAddress.png`
+   - Name it exactly as your contract address: `0x1234567890abcdef1234567890abcdef12345678.png`
 
 3. **Upload via GitHub**
    - Click the "Add file" button above
@@ -61,7 +61,7 @@ Simply reference the token by its contract address to retrieve the corresponding
 - **Size**: Minimum 256x256 pixels
 - **Quality**: Clear, high-resolution
 - **Background**: Transparent preferred
-- **File Name**: Must be the contract address (e.g., `0x123...abc.png`)
+- **File Name**: Must be the full contract address (e.g., `0x1234567890abcdef1234567890abcdef12345678.png`)
 
 ## Contributing
 
