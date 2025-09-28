@@ -105,17 +105,24 @@ const wPLSLogo = getTokenLogo('0xA1077a294dDE1B09bB078844df40758a5D0f9a27');
      - Final name example: `0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png`
 
 3. **📁 Upload via GitHub**
-   - Go to this repository's main page
-   - Navigate to the `logos` folder
-   - Click the "Add file" button (near the green "Code" button)
-   - Select "Upload files"
-   - Drag and drop your properly named PNG file
-   - In the "Commit changes" section:
-     - Add a title like: "Add [Your Token Name] logo"
-     - Optionally add a description
-   - Select "Create a new branch" (should be default)
-   - Click "Propose changes"
-   - Click "Create pull request"
+   - **Fork the repository first**:
+     - Click the "Fork" button at the top right of this repository
+     - This creates your own copy of the repository
+   - In YOUR forked repository:
+     - Navigate to the `logos` folder
+     - Click the "Add file" button → "Upload files"
+     - Drag and drop your properly named PNG file
+     - Scroll down to "Commit changes"
+     - Add a commit message like: "Add [Your Token Name] logo"
+     - Click "Commit changes"
+   - **Create a Pull Request**:
+     - Click "Contribute" → "Open pull request"
+     - Or go to the original repository and click "New pull request"
+     - Click "compare across forks"
+     - Select your fork and branch
+     - Click "Create pull request"
+     - Add a title: "Add [Your Token Name] logo"
+     - Click "Create pull request"
    - Done! We'll review and merge it soon
 
 ### Method 2: Submit via Issues
